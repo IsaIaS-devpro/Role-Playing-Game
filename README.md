@@ -1,5 +1,6 @@
 # Role-Playing-Game
 [PT-BR]
+  [![Gameplay Video](game-dragon.png)](jogo-dragão.mp4)
 
 Descrição do Projeto RPG - Derrote o Dragão:
 
